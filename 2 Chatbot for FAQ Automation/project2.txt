@@ -1,0 +1,11 @@
+Chatbot for FAQ Automation (Beginner-Intermediate)
+Problem Solved: Automating responses to common customer or personal queries.
+What You’ll Build: A chatbot that answers predefined FAQs using a fine-tuned small language model.
+Steps:
+Use a lightweight model like DistilBERT or DialoGPT.
+Create a small dataset (e.g., 20-30 question-answer pairs) in a text file.
+Fine-tune the model on your dataset using a Colab notebook (takes ~1-2 hours with free GPU).
+Build a simple interface with Python (e.g., input/output in terminal).
+Time: ~5-7 days (2 days for setup/dataset, 3-5 days for fine-tuning and testing).
+Tools: Python, Transformers, PyTorch/TensorFlow, Colab.
+Outcome: A chatbot that responds to basic questions like “What’s the weather?” or “How do I reset my password?”

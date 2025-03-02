@@ -1,0 +1,40 @@
+Q: What’s the weather like today?
+A: Check your local forecast!
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password."
+Q: What are your business hours?
+A: We’re open from 9 AM to 5 PM, Monday to Friday.
+Q: How can I contact support?
+A: Email us at support@example.com or call 1-800-555-1234.
+Q: Where is my order?
+A: Check your order status in your account under "Orders."
+Q: How do I return an item?
+A: Visit our returns page and follow the instructions there.
+Q: What’s your refund policy?
+A: Refunds are processed within 14 days of return receipt.
+Q: How do I update my account details?
+A: Log in, go to "Account Settings," and edit your info.
+Q: Is there a mobile app?
+A: Yes, download it from the App Store or Google Play.
+Q: What payment methods do you accept?
+A: We accept credit cards, PayPal, and bank transfers.
+Q: How do I cancel my subscription?
+A: Go to "Subscriptions" in your account and click "Cancel."
+Q: Why isn’t my discount code working?
+A: Ensure it’s valid and entered correctly at checkout.
+Q: Can I change my shipping address?
+A: Yes, if your order hasn’t shipped—contact support ASAP.
+Q: How long does shipping take?
+A: Standard shipping takes 3-5 business days.
+Q: What do I do if I forgot my username?
+A: Use the "Forgot Username" link on the login page.
+Q: Are your products eco-friendly?
+A: Yes, we use sustainable materials where possible.
+Q: How do I track my package?
+A: Use the tracking number emailed to you after shipping.
+Q: Can I get a receipt?
+A: Receipts are emailed after purchase—check your inbox.
+Q: What’s your customer service number?
+A: Call us at 1-800-555-1234, available 9 AM to 5 PM.
+Q: How do I sign up?
+A: Click "Sign Up" on our homepage and fill out the form.
