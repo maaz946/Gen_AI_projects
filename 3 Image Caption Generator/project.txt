@@ -1,0 +1,11 @@
+Image Caption Generator (Intermediate)
+Problem Solved: Automatically describing images for accessibility or content tagging.
+What You’ll Build: A system that generates captions for uploaded images using a pre-trained vision-language model.
+Steps:
+Use a model like CLIP-ViT with a captioning head (e.g., from Hugging Face).
+Write a script to load an image (e.g., via PIL or OpenCV) and pass it to the model.
+Test with 5-10 personal photos or downloaded images.
+Refine outputs by adjusting prompts or post-processing text.
+Time: ~7 days (2 days for setup, 3-5 days for coding/testing).
+Tools: Python, Transformers, PIL/OpenCV, Colab or local GPU.
+Outcome: A tool that turns images like “dog on a beach” into captions like “A dog runs happily along a sunny beach.”
