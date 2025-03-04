@@ -1,0 +1,11 @@
+Synthetic Data Generator for Missing Datasets (Intermediate-Advanced)
+Problem Solved: Lack of data for training machine learning models (e.g., rare scenarios).
+What You’ll Build: A text-based synthetic data generator using a large language model to create realistic tabular data or narratives.
+Steps:
+Pick a domain (e.g., fake customer reviews or medical records).
+Use a model like LLaMA or GPT-Neo (via Hugging Face) to generate structured text.
+Parse the output into a CSV file (e.g., name, age, purchase amount).
+Validate the data manually or with basic stats (e.g., mean, variance).
+Time: ~7-10 days (3 days for setup/domain choice, 4-7 days for coding/validation).
+Tools: Python, Pandas, Transformers, Colab or local machine.
+Outcome: A dataset of 100-500 rows you can use for testing other ML projects.
